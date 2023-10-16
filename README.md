@@ -1,2 +1,2 @@
 # Techo
-techenical news bot of MITS FOSS CLUB
+Technical news bot of MITS FOSS CLUB
